@@ -32,5 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-developer-306&show_icons=true&locale=en" alt="the-developer-306" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-developer-306&" alt="the-developer-306" /></p>
-
-<img src="https://raw.githubusercontent.com/the-developer-306/the-developer-306/output/snake.svg" alt="Snake animation" />
